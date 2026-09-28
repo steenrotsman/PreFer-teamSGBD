@@ -1,0 +1,19 @@
+# TEXTWIDTH_PT = 372.0
+# PT_TO_INCH = 72.27
+# WIDTH = TEXTWIDTH_PT / PT_TO_INCH
+# HEIGHT = WIDTH / 4
+# figure.figsize: WIDTH, HEIGHT
+figure.figsize: 5.147364051, 1.286841013
+
+axes.labelsize: 8
+font.size: 8
+legend.fontsize: 8
+xtick.labelsize: 8
+ytick.labelsize: 8
+font.family: sans-serif
+font.sans-serif: Arial
+text.usetex: False
+axes.spines.top: False
+axes.spines.right: False
+figure.constrained_layout.use: True
+savefig.format: pdf
